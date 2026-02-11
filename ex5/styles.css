@@ -1,0 +1,14 @@
+.blue {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+
+.green {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+}
+table, th, td {
+  border: 1px solid black;
+}
